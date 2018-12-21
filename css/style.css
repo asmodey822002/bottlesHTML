@@ -1,0 +1,101 @@
+body, html{	padding: 0;	margin: 0;}
+.one{	
+	background-image: url(../images/hero-image.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-bottom: 150px;
+}
+.raz{
+	width: 350px;
+	border: 1px solid #FF8000;
+	margin-left: -150px;
+}
+.dva{
+	border: 1px solid #FBFBEF;
+	margin-left: -100px;
+}
+.tri{
+	width: 500px;
+	border: 1px solid #ffe5b3;
+}
+.logo{
+	width: 100px;
+	margin: 25px;
+
+}
+.info{
+	width: 370px;
+	margin: 0 auto;
+	background: #FBFBEF;
+	padding: 70px;
+	padding-right: 200px;
+	position: relative; 
+}
+.lemon{
+	width: 270px;
+	position: absolute;
+	left: 400px;
+	top: -50px;
+
+}
+.too{
+	background-image: url(../images/history-bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    margin-top: -75px;
+    padding: 50px 20px 150px 10px;
+    position: relative;
+    z-index: 1;
+
+    
+}
+.info2{
+	margin: 0 auto;
+	padding: 250px 100px;
+}
+.picture{
+	width: 59%;
+	float: left;
+	text-align: right;
+	margin-left: 10px;
+
+}
+.text{
+	width: 39%;
+	float: right;
+	margin-top: 150px;
+}
+br{
+	clear: both;
+}
+.free{	
+	background-image: url(../images/sprits-bg.jpg);
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: -75px;
+    padding: 100px;
+    text-align: center;
+    color: white;
+}
+.butl{
+	margin: 50px auto;
+	
+}
+.scroll{
+	position: fixed;
+	right: 10px;
+	top: 300px;
+	z-index: 2;
+}
+button{
+	margin: 10px;
+	width: 50px;
+	height: 50px;
+	border: 3px solid white;
+	background: rgba(0, 0, 0, 0.1);
+}
+button:hover{
+	background: white;
+}
+
+
